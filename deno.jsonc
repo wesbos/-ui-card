@@ -1,0 +1,14 @@
+{
+  "name": "@ui/card",
+  "version": "0.0.1",
+  "exports": "./card.tsx",
+  "compilerOptions": {
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable"
+    ],
+    "jsx": "react-jsx",
+    "jsxImportSource": "npm:react"
+  }
+}
