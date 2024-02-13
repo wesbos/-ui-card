@@ -1,5 +1,5 @@
 {
-  "name": "@ui/card",
+  "name": "@wesbos/card",
   "version": "0.0.1",
   "exports": "./card.tsx",
   "compilerOptions": {
