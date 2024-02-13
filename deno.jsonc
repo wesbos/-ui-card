@@ -9,6 +9,6 @@
       "dom.iterable"
     ],
     "jsx": "react-jsx",
-    "jsxImportSource": "jsx-reactdev"
+    "jsxImportSource": "npm:react"
   }
 }
